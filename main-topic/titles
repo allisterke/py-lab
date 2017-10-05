@@ -1,0 +1,207 @@
+Cohort Query Processing
+Remember Where You Came From: On The Second-Order Random Walk Based Proximity Measures
+IL-Miner: Instance-Level Discovery of Complex Event Patterns
+Adaptive NUMA-aware data placement and task scheduling for analytical workloads in main-memory column-stores
+Mostly-Optimistic Concurrency Control for Highly Contended Dynamic Workloads on a Thousand Cores
+Effective Indexing for Approximate Constrained Shortest Path Queries on Large Road Networks
+Toward High-Performance Distributed Stream Processing via Approximate Fault Tolerance
+Path Cost Distribution Estimation Using Trajectory Data
+Fast Hierarchy Construction for Dense Subgraphs
+Sapprox: Enabling Efficient and Accurate Approximations on Sub-datasets with Distribution-aware Online Sampling
+Multi-Query Optimization for Subgraph Isomorphism Search
+Efficient Computation of Feedback Arc Set at Web-Scale
+A Declarative Query Processing System for Nowcasting
+NG-DBSCAN: Scalable Density-Based Clustering for Arbitrary Data
+Interactive Time Series Exploration Powered by the Marriage of Similarity Distances
+Computing Longest Increasing Subsequences over Sequential Data Streams
+Knowledge Exploration using Tables on the Web
+HubPPR: Effective Indexing for Approximate Personalized PageRank
+Scalable Distributed Subgraph Enumeration
+Fast Algorithm for the Lasso based L1-Graph Construction
+Resisting Tag Spam by Leveraging Implicit User Behaviors
+A General Framework for Estimating Graphlet Statistics via Random Walk
+Fast In-Memory SQL Analytics on Typed Graphs
+Stochastic Data Acquisition for Answering Queries as Time Goes by
+Finding Persistent Items in Data Streams
+BlueCache: A Scalable Distributed Flash-based Key-value Store
+A General and Parallel Platform for Mining Co-Movement Patterns over Large-scale Trajectories
+VIP-Tree: An Effective Index for Indoor Spatial Queries
+Write-Behind Logging
+The TileDB Array Data Storage Manager
+DOCS: Domain-Aware Crowdsourcing System
+Lifting the Haze off the Cloud: A Consumer-Centric Market for Database Computation in the Cloud
+Two Birds, One Stone: A Fast, yet Lightweight, Indexing Scheme for Modern Database Systems
+History is a mirror to the future: Best-effort approximate complex event matching with insufficient resources
+PHyTM: Persistent Hybrid Transactional Memory
+Skipping-oriented Partitioning for Columnar Layouts
+Estimating Quantiles from the Union of Historical and Streaming Data
+Clay: Fine-Grained Adaptive Partitioning for General Database Schemas
+Effortless Data Exploration with zenvisage: An Expressive and Interactive Visual Analytics System
+MapReduce and Streaming Algorithms for Diversity Maximization in Metric Spaces of Bounded Doubling Dimension
+Plausible Deniability for Privacy-Preserving Data Synthesis
+An Experimental Comparison of Partitioning Strategies in Distributed Graph Processing
+Shrink - Prescribing Resiliency Solutions for Streaming
+Distributed Join Algorithms on Thousands of Cores
+Clue-based Spatio-textual Query
+Truth Inference in Crowdsourcing: Is the Problem Solved?
+An Evaluation of Distributed Concurrency Control
+KBQA: Learning Question Answering over QA Corpora and Knowledge Bases
+Provenance for Natural Language Queries
+AdaptDB: Adaptive Partitioning for Distributed Joins
+An Experimental Evaluation of SimRank-based Similarity Search Algorithms
+High Performance Transactions via Early Write Visibility
+ZooBP: Belief Propagation for Heterogeneous Networks
+Understanding the Sparse Vector Technique for Differential Privacy
+OLAK: An Efficient Algorithm to Prevent Unraveling in Social Networks
+Data Tweening: Incremental Visualization of Data Transforms
+SMCQL: Secure Query Processing for Private Data Networks
+The End of a Myth: Distributed Transaction Can Scale
+NED: An Inter-Graph Node Metric Based On Edit Distance
+Effective Community Search over Large Spatial Graphs
+Effective and Complete Discovery of Order Dependencies via Set-based Axiomatization
+Adaptive Work Placement for Query Processing on Heterogeneous Computing Resources
+LFTF: A Framework for Efficient Tensor Analytics at Scale
+Local Search Methods for k-Means with Outliers
+Dimensional Testing for Reverse k-Nearest Neighbor Search
+An Empirical Evaluation of In-Memory Multi-Version Concurrency Control
+Finding Diverse, High-Value Representatives on a Surface of Answers
+Real-Time Influence Maximization on Dynamic Social Streams
+From Community Detection to Community Profiling
+Understanding Workers, Developing Effective Tasks, and Enhancing Marketplace Dynamics: A Study of a Large Crowdsourcing Marketplace
+One-Pass Error Bounded Trajectory Simplification
+MILC: Inverted List Compression in Memory
+Cümülön-D: Data Analytics in a Dynamic Spot Market
+Automatic Algorithm Transformation for Efficient Multi-Snapshot Analytics on Temporal Graphs
+Looking Ahead Makes Query Plans Robust
+Bridging the Gap between HPC and Big Data frameworks
+Revisiting the Stop-and-Stare Algorithms for Influence Maximization
+Leveraging Set Relations in Exact Set Similarity Join
+READS: A Random Walk Approach for Efficient and Accurate Dynamic SimRank
+Attribute-Driven Community Search
+Bias-Aware Sketches
+Data Driven Approximation with Bounded Resources
+Errata for ``Lightning Fast and Space Efficient Inequality Joins''  (PVLDB 8(13): 2074-2085)
+Scalable Asynchronous Gradient Descent Optimization for Out-of-Core Models
+When Engagement Meets Similarity: Efficient (k,r)-Core Computation on Social Networks
+An Experimental Evaluation of Point-of-interest Recommendation in Location-based Social Networks
+Don't Hold My Data Hostage - A Case For Client Protocol Redesign
+Auto-Join: Joining Tables by Leveraging Transformations
+Time Series Data Cleaning: From Anomaly Detection to Anomaly Repairing
+Pivot-based Metric Indexing
+Heterogeneous Recommendations: What You Might Like To Read After Watching Interstellar
+SilkMoth: An Efficient Method for Finding Related Sets with Maximum Matching Constraints
+A Data Quality Metric (DQM): How to Estimate the Number of Undetected Errors in Data Sets
+Slalom: Coasting Through Raw Data via Adaptive Partitioning and Indexing
+Mison: A Fast JSON Parser for Data Analytics
+OrpheusDB: Bolt-on Versioning for Relational Databases
+Revisiting Reuse for Approximate Query Processing
+Probabilistic Database Summarization for Interactive Data Exploration
+Memory Management Techniques for Large-Scale Persistent-Main-Memory Systems
+Trajectory Similarity Join in Spatial Networks
+HoloClean: Holistic Data Repairs with Probabilistic Inference
+Caribou: Intelligent Distributed Storage
+Towards Linear Algebra over Normalized Data
+Comparative Evaluation of Big-Data Systems on Scientific Image Analytics Workloads
+Revenue Maximization in Incentivized Social Advertising
+SquirrelJoin: Network-Aware Distributed Join Processing with Lazy Partitioning
+I’ve Seen “Enough”: Incrementally Improving Visualizations to Support Rapid Decision Making
+Minimal On-Road Time Route Scheduling on Time-Dependent Graphs
+A holistic view of stream partitioning costs
+Truss-based Community Search: a Truss-equivalence Based Indexing Approach
+Query Optimization for Dynamic Imputation
+In Search of an Entity Resolution OASIS: Optimal Asymptotic Sequential Importance Sampling
+Flexible Online Task Assignment in Real-Time Spatial Data
+A Forward Scan based Plane Sweep Algorithm for Parallel Interval Joins
+ASAP: Prioritizing Attention via Time Series Smoothing
+Knowledge Verification for LongTail Verticals
+SkyGraph: Retrieving Regions of Interest using Skyline Subgraph Queries
+Reverse Engineering Aggregation Queries
+LDA*: A Robust and Large-scale Topic Modeling System
+Social Hash Partitioner: A Scalable Distributed Hypergraph Partitioner
+On Sampling from Massive Graph Streams
+Pyramid Sketch: a Sketch Framework for Frequency Estimation of Data Streams
+Reconciling Skyline and Ranking Queries
+CleanM: An Optimizable Query Language for Unified Scale-Out Data Cleaning
+Distributed Trajectory Similarity Search
+Runtime Optimization of Join Location in Parallel Data Management Systems
+Stitching Web Tables for Improving Matching Quality
+DigitHist: a Histogram-Based Data Summary with Tight Error Bounds
+Fast Scans on Key-Value Stores
+Finding the maximum clique in massive graphs
+Privacy-preserving Network Provenance
+Truth Discovery for SpatioTemporal Events from Crowdsourced Data
+Data Vocalization: Optimizing Voice Output of Relational Data
+NoScope: Optimizing Deep CNN-Based Queries over Video Streams at Scale
+Parallel Replication across Formats in SAP HANA for Scaling Out Mixed OLTP/OLAP Workloads
+Developing a Low Dimensional Patient Class Profile in Accordance to Their Respiration-Induced Tumor Motion
+Dimensions Based Data Clustering and Zone Maps
+Stateful Scalable Stream Processing at LinkedIn
+Query-able Kafka: An agile data analytics pipeline for mobile wireless networks
+Statisticum: Data Statistics Management in SAP HANA
+Quaestor: Query Web Caching for Database-as-a-Service Providers
+Fiber-based architecture for NFV cloud databases
+Probabilistic Demand Forecasting at Scale
+ExtraV: Boosting Graph Processing Near Storage with a Coherent Accelerator
+State Management in Apache Flink®: Consistent Stateful Distributed Stream Processing
+PaxosStore: High-availability Storage Made Practical in WeChat
+Resumable Online Index Rebuild in SQL Server
+SAP HANA Adoption of Non-Volatile Memory
+CarStream: An Industrial System of Big Data Processing for Internet-of-Vehicles
+FAD.js: Fast JSON Data Access Using JIT-based Speculative Optimizations
+Colt: Concept Lineage Tool for Data Flow Metadata Capture and Analysis
+Matrix Profile IV: Using Weakly Labeled Time Series to Predict Outcomes
+Adaptive Statistics in Oracle 12c
+Dhalion:Self-Regulating Stream Processing in Heron
+Interactive Navigation of Open Data Linkages
+noWorkflow: a Tool for Collecting, Analyzing, and Managing Provenance from Python Scripts
+ARShop: A Cloud-based Augmented Reality System for Shopping
+Mind the Gap: Bridging Multi-Domain Query Workloads with EmptyHeaded
+Crossing the finish line faster when paddling the Data Lake with Kayak
+Debugging Transactions and Tracking their Provenance with Reenactment
+PICASSO: Exploratory Search of Connected Subgraph Substructures in Graph Databases
+DITIR: Distributed Index for High Throughput Trajectory Insertion and Real-time Temporal Range Query
+FlashView: An Interactive Visual Explorer for Raw Data
+Upsortable: Programming TopK Queries Over Data Streams
+QUIS: InSitu Heterogeneous Data Source Querying
+Automating Data Citation in CiteDB
+C-Explorer: Browsing Communities in Large Graphs
+GRAPE: Parallelizing Sequential Graph Computations
+Flower: A Data Analytics Flow Elasticity Manager
+STEED: An Analytical Database System for TrEE-structured Data
+LocLok: Location Cloaking with Differential Privacy via Hidden Markov Model
+Strider: An Adaptive, Inference-enabled Distributed RDF Stream Processing Engine
+A Confidence-Aware Top-k Query Processing Toolkit on Crowdsourcing
+Explaining and Querying Knowledge Graphs by Relatedness
+Thoth in Action: Memory Management in Modern Data Analytics
+Monopedia: Staying Single is Good Enough - The HyPer Way for Web Scale Applications
+Dima: A Distributed In-Memory Similarity-Based Query Processing System
+TeCoRe: Temporal Conflict Resolution in Knowledge Graphs
+MLog: Towards Declarative In-Database Machine Learning
+Foresight: Recommending Visual Insights
+A BAD Demonstration: Towards Big Active Data
+ClaimBuster:The First-ever End-to-end Fact-checking System
+QIRANA Demonstration: Real time Scalable Query Pricing
+DataTweener: A Demonstration of a Tweening Engine for Incremental Visualization of Data Transforms
+ZaliQL: Causal Inference from Observational Data at Scale
+A Demonstration of ST-Hadoop: A MapReduce Framework for Big Spatio-temporal Data
+Creation and Interaction with Large-scale Domain-Specific Knowledge Bases
+A Demonstration of Stella: A Crowdsourcing-Based Geotagging Framework
+Exploring big volume sensor data with Vroom
+New Trends on Exploratory Methods for Data Analytics
+Summarizing Static and Dynamic Big Graphs
+Geometric Approaches for Top-k Queries
+Spatial Crowdsourcing: Challenges, Techniques, and Applications
+The Era of Big Spatial Data
+Complex Event Recognition in the Big Data Era
+Blockchains and Databases
+Caching at the Web Scale
+Human-in-the-loop Data Integration
+The Data Center under your Desk - How Disruptive is Modern Hardware for DB System Design?
+7 Secrets That My Mother Didn't Tell Me
+Intelligent Probing for Locality Sensitive Hashing: Multi-Probe LSH and Beyond
+Scalable Replay-Based Replication For Fast Databases
+SlimDB: A Space-Efficient Key-Value Storage Engine For Semi-Sorted Data
+A Survey and Experimental Comparison of Distributed SPARQL Engines for Very Large RDF Data
+BlockJoin: Efficient Matrix Partitioning Through Joins
+Efficient Mining of Regional Movement Patterns in Semantic Trajectories
+Estimating Join Selectivities using Bandwidth-Optimized Kernel Density Models
